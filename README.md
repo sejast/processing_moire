@@ -1,4 +1,4 @@
-processing-moire
+processing_moire
 ================
 
 Simple processing sketch to create Moire patterns
