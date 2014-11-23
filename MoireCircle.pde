@@ -1,3 +1,9 @@
+/**
+ * A group of concentric circles that move around the screen. When multiple 
+ * of these are put on screen together, a moire interference pattern emerges.
+ *
+ * Author: Phil Chan
+ */
 class MoireCircle
 {
   /** The radius of the inner most circle */
@@ -67,7 +73,7 @@ class MoireCircle
   }
   
   /**
-   * For the current position and line spacing, how many concentric circles should be draw on the screen?
+   * For the current position and line spacing, how many concentric circles should be drawn to fill the screen?
    */ 
   private int getNumCirclesToDraw()
   {

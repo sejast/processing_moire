@@ -1,7 +1,7 @@
 /**
  * Simple demostration of moire interference 
  *
- * Author: Philip Chan
+ * Author: Phil Chan
  */
 int screenWidth = 800;
 int screenHeight = 500;
